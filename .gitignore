@@ -1,0 +1,23 @@
+# Python虚拟环境
+.venv/
+
+# Python缓存
+__pycache__/
+*.py[cod]
+
+# Jupyter缓存
+.ipynb_checkpoints/
+
+# macOS文件
+.DS_Store
+
+# 原始数据和压缩包
+archive/
+*.zip
+
+# 密钥和环境变量
+.env
+*.pem
+
+# 计划表
+TODO.md
