@@ -19,5 +19,5 @@ archive/
 .env
 *.pem
 
-# 计划表
+# 本地学习计划
 TODO.md
