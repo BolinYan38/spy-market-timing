@@ -11,8 +11,12 @@ __pycache__/
 # macOS文件
 .DS_Store
 
+# 本地编辑器工作区
+*.code-workspace
+
 # 原始数据和压缩包
-archive/
+archive/*
+!archive/DATA.md
 *.zip
 
 # 密钥和环境变量

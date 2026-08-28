@@ -1,0 +1,5 @@
+*.ipynb text eol=lf linguist-language=Python
+*.md text eol=lf
+*.py text eol=lf
+*.txt text eol=lf
+*.yml text eol=lf
